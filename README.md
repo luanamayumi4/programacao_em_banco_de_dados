@@ -4,7 +4,7 @@ Neste repositório você pode encontrar exercícios e atividades relacionadas a 
 
 
 <img src = "https://github.com/luanamayumi4/free_images/blob/c9f100a153abfbe53bbd36d276b168764e2b290d/database.jpg"
- width="500px"/>
+ width="300px"/>
 
 
 **Linguagem:** SQL, PLpgSQL e Python
